@@ -1,5 +1,13 @@
 Third line
 five line
 Extra line 
+<<<<<<< HEAD
 this one is our updated oneline
 Tiger
+||||||| c3fe7d2
+this one is our updated line
+=======
+this one is our updated line
+new line 
+nddsihaf
+>>>>>>> 97075f8e4b6ac8941355a6ca7430419796614bfe
